@@ -1,4 +1,8 @@
-1. В названии лейбла ошибка. Название компании "Avito", название лейбла на странице "Awito". ![First bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Awito.jpg)
+1. В названии лейбла ошибка. Название компании "Avito", в название лейбла на странице указано "Awito". ![First bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Awito.jpg)
 2. В строке шорткатов перехода по дереву поиска товара нет последней ветки поиска. Пользователь ищет телефон марки Samsung ![Second bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Finder_path_tree.jpg)
-3. Выбранный режима выдачи товаров на экране (иконка) не отличается от остальных режимов, что можемм ввести в заблуждение пользователя. ![Third bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/imagesDeceptive_toolbar.jpg)
-4. Результат выдачи не соответствует запросу. Пользователь ищет телефон марки Samsung, в результате выдачи телефон марки Iphone. (Рис.1 п.3) ![Third bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Awito.jpg)
+3. Выбранный режима выдачи товаров на экране (иконка) не отличается от остальных режимов, что можемм ввести в заблуждение пользователя. ![Third bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Deceptive_toolbar.jpg)
+4. Результат выдачи не соответствует запросу. Пользователь ищет телефон марки Samsung, в результате выдачи телефон марки Iphone. ![Fourth bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Phone_model_mismatch.jpg)
+5. В боковой панели фильтрации товара отсутствует возможность выбрать размер оперативной памяти устройства, хотя в выдаче товаров указывается оперативная память устройств.
+6. Цвет устройства на картинке в выдаче не соостветствует цвету устройства, заданного фильтром. Ожидаемый цвет - синий, актуальный - зеленый.  ![Fifth bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Colour_and_price_output_mismatch.jpg)
+7. Стоимость устройства на картинке в выдаче не соостветствует заданному ценовому диапозону. Ожидаемая цена - до 50000 р., актуальная - 59999 р. ![Sixth bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Colour_and_price_output_mismatch.jpg)
+   
