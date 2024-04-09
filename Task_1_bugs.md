@@ -1,4 +1,4 @@
 1. В названии лейбла ошибка. Название компании "Avito", название лейбла на странице "Awito". (Рис.1  п.1)
-![First bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/master/images/Awito.jpg)
+![First bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/tree/main/images/Awito.jpg)
 2. В строке шорткатов перехода по дереву поиска товара нет последней ветки поиска. Пользователь ищет телефон марки Samsung (Рис.1 п.2)
 3. Результат выдачи не соответствует запросу. Пользователь ищет телефон марки Samsung, в результате выдачи телефон марки Iphone. (Рис.1 п.3)
