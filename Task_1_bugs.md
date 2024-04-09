@@ -1,5 +1,4 @@
-1. В названии лейбла ошибка. Название компании "Avito", название лейбла на странице "Awito".
-![First bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Awito.jpg)
-2. В строке шорткатов перехода по дереву поиска товара нет последней ветки поиска. Пользователь ищет телефон марки Samsung
-![Second bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Finder_path_tree.jpg)
-4. Результат выдачи не соответствует запросу. Пользователь ищет телефон марки Samsung, в результате выдачи телефон марки Iphone. (Рис.1 п.3)
+1. В названии лейбла ошибка. Название компании "Avito", название лейбла на странице "Awito". ![First bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Awito.jpg)
+2. В строке шорткатов перехода по дереву поиска товара нет последней ветки поиска. Пользователь ищет телефон марки Samsung ![Second bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Finder_path_tree.jpg)
+3. Выбранный режима выдачи товаров на экране (иконка) не отличается от остальных режимов, что можемм ввести в заблуждение пользователя. ![Third bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/imagesDeceptive_toolbar.jpg)
+4. Результат выдачи не соответствует запросу. Пользователь ищет телефон марки Samsung, в результате выдачи телефон марки Iphone. (Рис.1 п.3) ![Third bug](https://github.com/zapletin-dk/Avito-tech_QA-trainee-assignment/raw/main/images/Awito.jpg)
