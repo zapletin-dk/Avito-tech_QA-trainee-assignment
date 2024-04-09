@@ -63,4 +63,5 @@
 <p align="center">
  <img width="200px" src="/images/City_name_missed.jpg" alt="[Seventeenth bug]"/>
 </p>
+18. Несоответствие отображения количества найденого товара. Ожидаемый результат - **119989**, актуальный - **77**.
    
