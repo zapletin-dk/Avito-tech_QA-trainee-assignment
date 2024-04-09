@@ -88,4 +88,17 @@
 <p align="center">
  <img width="200px" src="/images/defunct_geographic_feature.jpg" alt="[Nineteenth bug]"/>
 </p>
+
+20. В тексте заголовка отсутствует название производителя устройства, при условии, что плейсхолдер производителя заполнен. *"Смартфоны и мобильные телефоны **Samsung** в Москве"*.
+<p align="center">
+ <img width="200px" src="/images/Header_issue.jpg" alt="[Twentieth bug]"/>
+</p>
+
+21. Цвет текста в плейсхолдере производителя не явно отображает выбор. Следует изменить стиль шрифта на более понятный, например **"Samsung"**. 
+<p align="center">
+ <img width="200px" src="/images/Manufacturer_placeholder.jpg" alt="[Twenty-first bug]"/>
+</p>
+
+22. Футер подразумевает, что контент страницы закончился. В случае скриншота - не все товары были просмотрены, однако футер на скриншоте присутствует.
+
    
